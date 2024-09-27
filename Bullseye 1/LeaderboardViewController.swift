@@ -15,7 +15,6 @@ class LeaderboardViewController: UIViewController {
     let closeButton = UIButton()
     let mainStackView = UIStackView()
     
-    
     // MARK: Functions
     
     func setUpLeaderboardLabel() {
